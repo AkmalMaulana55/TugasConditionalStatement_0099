@@ -33,4 +33,6 @@ int main(){
     bmi = hitungBMI(berat, tinggi);
 
     cout << endl;
+
+    cout << "--- Hasil ---" << endl;
 }
