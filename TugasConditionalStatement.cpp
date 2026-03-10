@@ -30,4 +30,7 @@ int main(){
     float berat, tinggi, bmi;
 
     inputData(berat, tinggi);
+    bmi = hitungBMI(berat, tinggi);
+
+    cout << endl;
 }
